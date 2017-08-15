@@ -13,12 +13,8 @@ logo: /siteicon.png
 description: Host a virtual reality party in Lexington
 author:
   name:
-  email:
+  email: erik@erikschwartz.net
   twitter: # twitter username without the @ symbol
-social:
-  name: Hydra Template
-  links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
 
 # -----
 # Build
